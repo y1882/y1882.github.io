@@ -1,0 +1,26 @@
+html{
+    background-color: #7fffd4;
+}
+body{
+    width: 900px;
+    margin:0 auto;
+    background-color: #f0f8ff;
+    }
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: #ffd700;
+    text-shadow: 5px 5px 3px #000000;
+}
+h2,h3{
+    font-size: 45px;
+    font-family: 'Square Peg', cursive;
+}
+p,li{
+    font-size: 30px;
+    font-family: 'Square Peg', cursive;
+}
+img{
+    display:block;
+    margin: 0 auto;
+}
